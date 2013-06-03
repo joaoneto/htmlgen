@@ -2,7 +2,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list
 // https://developer.mozilla.org/en-US/docs/Web/HTML/Element?redirectlocale=en-US&redirectslug=HTML%2FElement
 define('ELEMENTS_ROOT_ELEMENT', 'html');
-define('ELEMENTS_DOCUMENT_METADATA', 'head|title|base|link|meta|stype');
+define('ELEMENTS_DOCUMENT_METADATA', 'head|title|base|link|meta|style');
 define('ELEMENTS_SCRIPTING', 'script|noscript');
 define('ELEMENTS_SECTIONS', 'body|section|nav|article|aside|h1|h2|h3|h4|h5|h6|header|footer|address|main');
 define('ELEMENTS_GROUPING_CONTENT', 'p|hr|pre|blockquote|ol|ul|li|dl|dt|dd|figure|figcaption|div');
