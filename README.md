@@ -59,17 +59,10 @@ Should return
             <tr>
                 <th>a</th>
                 <th>b</th>
-                <th>c</th>
             </tr>
         </thead>
         <tbody>
             <tr class="tr2">
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr class="tr3">
-                <td></td>
                 <td></td>
                 <td></td>
             </tr>
